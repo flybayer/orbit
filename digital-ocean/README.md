@@ -1,3 +1,7 @@
+## Slides
+
+http://slides.com/flybayer/yourserver
+
 ## Copy index.html to default nginx location
 
 1. `scp index.html root@<ipaddress>:/usr/share/nginx/html/`
